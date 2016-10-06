@@ -34,6 +34,8 @@ gem "simple_form"
 
 gem "devise"
 # quick sign in and sign up
+gem "will_paginate"
+# posts/248
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
